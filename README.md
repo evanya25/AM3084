@@ -36,9 +36,9 @@ Open the URL displayed in the terminal, usually:
 http://localhost:8501
 
 ## Team Members
-1. Member 1 - Mihindi
+1. Member 1 - s17352-Mihindi Kulathunga
 2. Member 2 - s17403-Rasini Sudeepani
-3. Member 3 - Sadeepa
+3. Member 3 - s17427-Sadeepa Rukshan
 4. Member 4 - s17615-Kuladu Hewagama
 
 ## Technologies Used
