@@ -36,10 +36,10 @@ Open the URL displayed in the terminal, usually:
 http://localhost:8501
 
 ## Team Members
-1. Member 1 - [Mihindi]
-2. Member 2 - [Rasini]
-3. Member 3 - [Sadeepa]
-4. Member 4 - [Kuladu]
+1. Member 1 - Mihindi
+2. Member 2 - s17403-Rasini Sudeepani
+3. Member 3 - Sadeepa
+4. Member 4 - s17615-Kuladu Hewagama
 
 ## Technologies Used
 - Python
