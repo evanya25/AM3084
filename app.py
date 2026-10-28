@@ -17,6 +17,30 @@ os.chdir(HERE)                            # so files can find student_performanc
 
 st.set_page_config(page_title="CMM Dashboard", layout="wide")
 st.title("Computational Mathematical Modeling - Week 04 Dashboard")
+# -------------------------------
+# Group Members
+# -------------------------------
+st.subheader("Group Members")
+
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    st.markdown("### Kuladu")
+    st.write("Question 1")
+
+with col2:
+    st.markdown("### Sadeepa")
+    st.write("Question 2")
+
+with col3:
+    st.markdown("### Rasini")
+    st.write("Question 3")
+
+with col4:
+    st.markdown("### Mihindi")
+    st.write("Question 4")
+
+st.divider()
 
 
 def find_script(number):
